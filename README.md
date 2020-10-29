@@ -1,2 +1,2 @@
-# Youtube-viewBot
-View Bot for Youtube videos/streams
+# YouTube ViewBot
+Get 10k watchers/views in few minutes! 🤑
